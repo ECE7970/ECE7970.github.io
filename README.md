@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+For questions and concerns, please contact [David Donoho](https://profiles.stanford.edu/david-donoho), [Hatef Monajemi](http://web.stanford.edu/~monajemi/) (@monajemi on GitHub) or [Vardan Papyan](http://vardanp.cswp.cs.technion.ac.il/). This class meets Wednesdays 3:00-4:20 PM at [200-002](https://campus-map.stanford.edu/?srch=200-002). If you are a guest speaker for this course, please read [travel section](#plan-your-visit) to plan your visit.   
 
-You can use the [editor on GitHub](post.md) to maintain and preview the content for your website in Markdown files.
+* [Follow Stat385 on Twitter](https://twitter.com/stats385?lang=en)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+* [Follow Stat385 on ResearchGate (videos)](https://www.researchgate.net/project/Theories-of-Deep-Learning)  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## [Looking for a postdoc?](postdoc)
 
-### Jekyll Themes
+## [In the media](media)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ECE7970/ECE7970.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## [Reading list and other resources](readings)
 
-### Support or Contact
+## [Lecture slides](lecture_slides)    
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## [Basic information about deep learning](basicinfo)    
+
+## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
+
+## [The course in a single graph](http://bl.ocks.org/vardanp91/raw/be0f763405b76d33caefdaebc2ac3487/)
+
+## [Blogs](blogs)
+
+## [Grading](grading)
+
+## [Plan your visit](speaker_visit)
