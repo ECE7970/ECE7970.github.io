@@ -10,6 +10,8 @@
 <span class="speakerposition">E-Mail:rqiu@tntech.edu</span>
 </div>
 </div>
+
+
 ---
 ## [Biography](http://www.cae.tntech.edu/~rqiu/robert_qiu.htm)
 
@@ -21,4 +23,4 @@
 
 ## [Blogs](blogs)
 
-## [Grading](grading)wgoo
+## [Grading](grading)
