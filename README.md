@@ -8,7 +8,7 @@
 <div class="card">
 <a class="talkdate" >Center for Manufacturing Research</a> <br>
 <span class="speaker">Tennessee Technological University</span> <br>
-<span class="speakerposition">Cookeville, TN 38501-0001</span>
+<span class="speakerposition">Cookeville, TN 38501-0001</span> <br>
 <span class="speakerposition">E-Mail:rqiu@tntech.edu</span>
 </div>
 </div>
