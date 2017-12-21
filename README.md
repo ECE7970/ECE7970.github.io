@@ -1,4 +1,3 @@
-## [Biography](http://www.cae.tntech.edu/~rqiu/robert_qiu.htm)
 
 ---
 <div class="speaker-wrap">
@@ -6,8 +5,8 @@
 <img src="assets/img/qiu_hdsht1_2004.JPG">
 </div>
 <div class="card">
-<a class="talkdate" >Center for Manufacturing Research</a> <br>
-<span class="speaker">Tennessee Technological University</span> <br>
+<a class="talkdate" >Tennessee Technological University</a> <br>
+<span class="speaker">Center for Manufacturing Research</span> <br>
 <span class="speakerposition">Cookeville, TN 38501-0001</span> <br>
 <span class="speakerposition">E-Mail:rqiu@tntech.edu</span>
 </div>
