@@ -1,5 +1,5 @@
 
-# links
+# Links
 - [TTU](https://www.tntech.edu/)
 - [TTU WNSL](http://www.cae.tntech.edu/~rqiu/)
 - [Deep Learning Course](https://zh.coursera.org/specializations/deep-learning)
