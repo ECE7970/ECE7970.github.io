@@ -3,7 +3,7 @@
 - Fourier transforms
 - Random Variables
 
-## Courses
+## Online Courses
 
 - [Random Matrix Theory](https://ocw.mit.edu/courses/mathematics/18-996-random-matrix-theory-and-its-applications-spring-2004/index.htm)
 - [Deep Learning](https://zh.coursera.org/specializations/deep-learning)
