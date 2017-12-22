@@ -1,14 +1,12 @@
 
 
 ## Courses
-- [Chris Manning](http://web.stanford.edu/class/cs224n/)
-- [Andrew Ng](http://deeplearning.ai)
-- [CS231n](http://cs231n.github.io)
 
-## Packages -- including examples, tutorials and pretrained models
+## Software Packages
 
 - [Matlab](https://www.mathworks.com/)
 - [Tensor Toolbox](http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html)
+- [ubuntu](https://www.ubuntu.com/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Anaconda](https://www.anaconda.com/)
 - [Keras](https://keras.io/)
