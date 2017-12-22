@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ## Lecture 1 -- Deep Learning Challenge. Is There Theory?
 <strong>Readings</strong>  
