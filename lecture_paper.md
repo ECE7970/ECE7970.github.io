@@ -2,7 +2,7 @@
 # Lecture Paper for ECE7970, Fall 2017
 
 
-### [Topic 01: High Dimensional Space](./assets/lectures/StanfordStats385-20170927-Lecture01-Donoho.pdf)
+### [Topic 01: High Dimensional Space](# High Dimensional Space)
 
 ### [Topic 02: Best-Fit Subspace and Singular Value Decomposition(SVD)](./assets/lectures/Lecture-02-AsCorrected.pdf)
 
@@ -14,5 +14,6 @@
 
 ### [Topic 06: Random Matrix Theory in Deep Learning](./assets/lectures/StanfordStats385-20171025-Lecture05-Poggio.pdf)
 
+# High Dimensional Space
 
 [back](./)
