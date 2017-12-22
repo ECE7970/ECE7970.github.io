@@ -2,7 +2,7 @@
 # Lecture Paper for ECE7970, Fall 2017
 
 
-### [Topic 01: High Dimensional Space](# High Dimensional Space)
+### [Topic 01: High Dimensional Space](#High Dimensional Space)
 
 ### [Topic 02: Best-Fit Subspace and Singular Value Decomposition(SVD)](./assets/lectures/Lecture-02-AsCorrected.pdf)
 
