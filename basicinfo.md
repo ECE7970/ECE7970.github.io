@@ -18,7 +18,7 @@
 - [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio and Courville, 2016. 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) Nielsen, 2015.
 - Many O'Reilly Books
-1. Avrim Blum, John Hopcroft, and Ravindran Kannan, Foundations of Data Science, June 2017.
+1. Avrim Blum, John Hopcroft, and Ravindran Kannan, [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf), June 2017.
 2. R. C. Qiu, Cognitive Radio Networking and Sensing, John Wiley, 2012.
 3. R. C. Qiu and M. Wicks, Cognitive Networked Sensing and Big Data,Springer, 2014.
 4. R. C. Qiu and P. Antonik, Smart Grid using Big Data Analytics, John Wiley, 2017.
