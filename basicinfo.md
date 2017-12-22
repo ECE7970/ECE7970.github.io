@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ## Courses
 - [Chris Manning](http://web.stanford.edu/class/cs224n/)
