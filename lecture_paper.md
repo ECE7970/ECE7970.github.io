@@ -15,7 +15,7 @@
 
 ---
  <h2 id="1">
- ###  Topic 01: High Dimensional Space
+ Topic 01: High Dimensional Space
  </h2>
 
 ---
