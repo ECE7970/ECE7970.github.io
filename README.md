@@ -21,7 +21,7 @@
 
 ## [Lecture slides](lecture_slides)    
 
-## [Basic information about deep learning](basicinfo)    
+## [Basic information about Dig Data](basicinfo)    
 
 ## [Links](links.md)
 
