@@ -1,4 +1,3 @@
-
 # Lecture Paper for ECE7970, Fall 2017
 
 
