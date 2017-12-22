@@ -14,6 +14,7 @@
 
 ### [Topic 06: Random Matrix Theory in Deep Learning](./assets/lectures/StanfordStats385-20171025-Lecture05-Poggio.pdf)
 
+---
 ### Topic 01: High Dimensional Space
 
 [back](./)
