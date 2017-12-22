@@ -21,7 +21,7 @@
 
 ## [Lecture slides](lecture_slides)    
 
-## [Basic information about Dig Data](basicinfo)    
+## [Basic information about Dig Data](basicinfo.md)    
 
 ## [Links](links.md)
 
