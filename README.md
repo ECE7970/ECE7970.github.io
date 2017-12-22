@@ -1,6 +1,4 @@
-## Course Description:   
 
-Big Data and Artificial Intelligence is a course for the graduate program. This course is critical to the curriculum, due to the following. (1) Big data systems are found ubiquitous in engineering and science. The analysis of big data signals measured in these linear systems is the butter and bread of daily life, e.g., in wireless industry, digital health, Internet, etc. It is very fortunate and surprising that this simple, ideal model (high-dimensional space) is sufficient for almost every problem. (2) Deep learning takes advantage of non-linear information from big data. It has become a new standard for most big data problems. (3) Familiarity with the latest research literature is critical to the graduate program. 
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
