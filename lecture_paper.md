@@ -1,9 +1,7 @@
 # Lecture Paper for ECE7970, Fall 2017
-[横线](#横线)
 
-[Topic 01: High Dimensional Space](#01)
 
-### [Topic 01: High Dimensional Space](### Topic 01: High Dimensional Space)
+### [Topic 01: High Dimensional Space](#Topic01)
 
 ### [Topic 02: Best-Fit Subspace and Singular Value Decomposition(SVD)](#Topic 02: Best-Fit Subspace and Singular Value Decomposition(SVD))
 
@@ -16,7 +14,7 @@
 ### [Topic 06: Random Matrix Theory in Deep Learning](#Topic 06: Random Matrix Theory in Deep Learning)
 
 ---
-### Topic 01: High Dimensional Space
+### Topic01
 
 ---
 ### Topic 02: Best-Fit Subspace and Singular Value Decomposition(SVD)
