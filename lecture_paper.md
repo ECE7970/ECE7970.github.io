@@ -1,5 +1,5 @@
 # Lecture Paper for ECE7970, Fall 2017
-[横线](#横线)
+[横线](#横 线)
 
 [Topic 01: High Dimensional Space](### Topic 01: High Dimensional Space)
 
@@ -35,5 +35,5 @@
 ### Topic 06: Random Matrix Theory in Deep Learning
 ---
 
-## 横线
+## 横 线
 [back](./)
