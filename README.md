@@ -22,6 +22,6 @@
 
 ## [Basic information about deep learning](basicinfo)    
 
-## [Blogs](blogs)
+## [Links](links)
 
 ## [Syllabus](assets/doc/ECE 7970 Syllabus Fall 2017.pdf)
