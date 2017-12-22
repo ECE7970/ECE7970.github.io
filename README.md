@@ -19,7 +19,7 @@
 
 ## [Prerequisites and texts](basicinfo.md)    
 
-## [Reading list](readings.md)
+## [Reading list](reading.md)
 
 ## [Lecture Paper](lecture_paper.md)    
 
