@@ -25,7 +25,7 @@
 - R. C. Qiu, Cognitive Radio Networking and Sensing, John Wiley, 2012.
 - R. C. Qiu and M. Wicks, Cognitive Networked Sensing and Big Data,Springer, 2014.
 - R. C. Qiu and P. Antonik, [Smart Grid using Big Data Analytics](https://www.amazon.com/Smart-Grid-using-Data-Analytics/dp/1118494059/ref=sr_1_1?ie=UTF8&qid=1513961716&sr=8-1&keywords=Smart+Grid+using+Big+Data+Analytics), John Wiley, 2017.
-- Alex Graves, Supervised Sequence Labelling with Recurrent Neural Networks, Springer, 2012.
+- Alex Graves, [Supervised Sequence Labelling with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf), Springer, 2012.
 - cs231n.stanford.edu, http://videolectures.net/deeplearning2017_montreal/
 - https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/
 
