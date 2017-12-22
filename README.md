@@ -1,5 +1,3 @@
-
----
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/qiu_hdsht1_2004.JPG">
@@ -15,7 +13,6 @@
 
 ---
 
----
 ## [Biography](http://www.cae.tntech.edu/~rqiu/robert_qiu.htm)
 
 ## [Reading list and other resources](readings)
