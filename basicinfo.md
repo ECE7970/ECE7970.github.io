@@ -2,11 +2,14 @@
 
 ## Courses
 
+- [Deep Learning Course](https://zh.coursera.org/specializations/deep-learning)
+- [Random Matrix Theory Course](https://ocw.mit.edu/courses/mathematics/18-996-random-matrix-theory-and-its-applications-spring-2004/index.htm)
+
 ## Software Packages
 
 - [Matlab](https://www.mathworks.com/)
 - [Tensor Toolbox](http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html)
-- [ubuntu](https://www.ubuntu.com/)
+- [Ubuntu](https://www.ubuntu.com/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Anaconda](https://www.anaconda.com/)
 - [Keras](https://keras.io/)
