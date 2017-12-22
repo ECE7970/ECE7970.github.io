@@ -23,4 +23,6 @@
 
 ## [Links](links.md)
 
+## [Links](links.md)
+
 ## [Syllabus](assets/doc/ECE 7970 Syllabus Fall 2017.pdf)
