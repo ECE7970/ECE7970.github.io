@@ -17,9 +17,9 @@
 
 ## [Syllabus](assets/doc/ECE 7970 Syllabus Fall 2017.pdf)
 
-## [Reading list](readings.md)
+## [Texts and References](basicinfo.md)    
 
-## [Basic information about Dig Data](basicinfo.md)    
+## [Reading list](readings.md)
 
 ## [Lecture Paper](lecture_paper.md)    
 
