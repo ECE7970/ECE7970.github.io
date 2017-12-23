@@ -237,6 +237,11 @@ Paper:
 - Back-propagation derivation
 - CNN
 
+---
+ <h3 id="6">
+ Topic 06: Random Matrix Theory in Deep Learning
+ </h3>
+ 
 ## Lecture 19 
 - Free probability random matrix theory
 - Limiting spectral density
