@@ -178,6 +178,14 @@ Paper:
 - Quantified advantage of discontinuous weight selection in approximations with deep neural networks
 - Error Bound for appointments with deep RELU networks
 
+Paper:
+- [Deep Learning-Based MIMO Communications](https://arxiv.org/pdf/1707.07980.pdf)
+- [Deep MIMO Detection](https://arxiv.org/pdf/1706.01151.pdf)
+- [Deep Learning-Based Communication Over the Air](https://arxiv.org/pdf/1707.03384.pdf)
+- [Learning to Optimize: Training Deep Neural Networks for Wireless Resource Management](https://arxiv.org/pdf/1705.09412.pdf)
+- [Machine Learning for Wireless Networks with Artificial Intelligence: A Tutorial on Neural Networks](https://arxiv.org/pdf/1710.02913.pdf)
+- [Error bounds for approximations with deep ReLU networks](https://arxiv.org/pdf/1610.01145.pdf)
+- [Training Feedforward Neural Networks with Standard Logistic Activations is Feasible](https://arxiv.org/pdf/1710.01013.pdf)
 
 ## Lecture 16 
 - CNN
@@ -220,6 +228,13 @@ Paper:
 - Tensoring neural networks
 - Tensor deep staking networks
 - 2017 a correspondence between random neural networks and statistical field theory
+
+Paper:  
+- [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks](https://arxiv.org/pdf/1312.6120.pdf)
+- [Supplemental Material: Geometry of Neural Network Loss Surfaces via Random Matrix Theory](http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf)
+- [Geometry of Neural Network Loss Surfaces via Random Matrix Theory](http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf)
+- [Nonlinear random matrix theory for deep learning](http://papers.nips.cc/paper/6857-nonlinear-random-matrix-theory-for-deep-learning.pdf)
+- [Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice](http://papers.nips.cc/paper/7064-resurrecting-the-sigmoid-in-deep-learning-through-dynamical-isometry-theory-and-practice.pdf)
 
 ## Lectrue 21  
 Paper:
