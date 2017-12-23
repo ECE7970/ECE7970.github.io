@@ -125,7 +125,7 @@ Paper:
 Paper:  
 - [Deep Learning](http://cs229.stanford.edu/materials/CS229-DeepLearning.pdf) by Andrew Ng
 
-## Lectrue 13
+## Lecture 13
 - Rectified linear unit: deep learning
 
 Paper:  
