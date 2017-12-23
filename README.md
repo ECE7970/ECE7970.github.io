@@ -21,6 +21,6 @@
 
 ## [Lecture outline](outline.md)
 
-## [Lecture Paper](lecture_paper.md)    
+## [Paper list](lecture_paper.md)    
 
 ## [Links](links.md)
