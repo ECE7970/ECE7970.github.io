@@ -23,4 +23,6 @@
 
 ## [Lecture Paper](lecture_paper.md)    
 
+## [Lecture outline](outline.md)
+
 ## [Links](links.md)
