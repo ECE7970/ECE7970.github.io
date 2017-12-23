@@ -95,7 +95,7 @@ Paper：
 - Gaussian mixture model
 
 Paper:
-- [Sketching as a Tool for Numerical Linear Algebra](assets/paper/2014 Sketching as a Tool for Numerical Linear Algebra.pdf)
+- [Sketching as a Tool for Numerical Linear Algebra](/assets/paper/2014 Sketching as a Tool for Numerical Linear Algebra.pdf)
 
 ## Lecture 11
 - Introduction to theorem non –asymptotic analysis of random metrics
