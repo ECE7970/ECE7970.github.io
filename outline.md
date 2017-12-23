@@ -1,19 +1,19 @@
-# High dimensional space
+# High Dimensional Space
 
 From textbook: Foundations of data science blum. John hoproft and Kaman
-## Lectrue1  Aug29
+## Lectrue1  Aug 29
 ### Big data:
-opportunities and challenges
-High dimensional statistics smart grid
-Cognitive radio network
-Cognitive radar
-Cognitive networked sensing
+- opportunities and challenges
+- High dimensional statistics smart grid
+- Cognitive radio network
+- Cognitive radar
+- Cognitive networked sensing
 
 ### Algorithms:
-Random forest
-SVM
-Decision tree
-PCA
-Kernel PCA
-foundations: deep learning classification, prediction
-Application
+- Random forest
+- SVM
+- Decision tree
+- PCA
+- Kernel PCA
+   * foundations: deep learning classification, prediction
+   * Application
