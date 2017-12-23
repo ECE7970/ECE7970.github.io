@@ -46,9 +46,8 @@ From textbook: Foundations of data science blum. John hoproft and Kaman
 - Gaussian annulus theorem and Random projection and Johnson–Lindenstrauss lemma
 - Random projection theorem
 
-paper：
-
-[Spectrum Analysis of Large Random Matrices A Brief Introduction](/assets/ppt/SJTU_EE_PhD_Course_Notes_2017.pdf)
+paper：  
+* [Spectrum Analysis of Large Random Matrices A Brief Introduction](/assets/ppt/SJTU_EE_PhD_Course_Notes_2017.pdf)
   
 ## Lecture 5  
 - MP law
