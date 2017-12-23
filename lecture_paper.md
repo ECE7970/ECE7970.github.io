@@ -30,7 +30,7 @@
  </h3>
 - [2017 Towards Understanding Generalization of Deep Learning--Perspective of Loss Landscapes](https://arxiv.org/pdf/1706.10239.pdf)
 - [2017 Resurrecting the sigmoid in deep learning through dynamical isometry](http://papers.nips.cc/paper/7064-resurrecting-the-sigmoid-in-deep-learning-through-dynamical-isometry-theory-and-practice.pdf)
-- [2017 OUTLIERS IN THE SPECTRUM FOR PRODUCTS OF  INDEPENDENT RANDOM MATRICES](https://arxiv.org/pdf/1711.07420.pdf)
+- [2017 Outliers In The Spectrum for Products of Independent Random Matrices](https://arxiv.org/pdf/1711.07420.pdf)
 - [2017 On the Error Exponent of a Random Tensor with  Orthonormal Factor Matrices](https://hal-centralesupelec.archives-ouvertes.fr/hal-01562329/document)
 - [2017 Nonlinear random matrix theory for deep learning2](http://papers.nips.cc/paper/6857-nonlinear-random-matrix-theory-for-deep-learning.pdf)
 - [2017 Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
@@ -38,7 +38,7 @@
 - [2017 Geometry of Neural Network Loss Surfaces via Random Matrix Theory---supplemental material](http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf)
 - [2017 Geometry of Neural Network Loss Surfaces via Random Matrix Theory](http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf)
 - [2017 Empirical Analysis of the Hessian of Over-Parametrized Neural Networks](https://arxiv.org/pdf/1706.04454.pdf)
-- [2017 EIGENVALUES OF THE HESSIAN IN DEEP LEARNING--SINGULARITY AND BEYOND](https://openreview.net/pdf?id=B186cP9gx)
+- [2017 Eigenvalues Of The Hession In Deep Learing--Singularity and Beyond](https://openreview.net/pdf?id=B186cP9gx)
 ---
 
  <h3 id="3">
@@ -48,11 +48,11 @@
 - [2017 Unsupervised and Semi-supervised Anomaly Detection with LSTM Neural Networks](https://arxiv.org/pdf/1710.09207.pdf)
 - [2017 Towards the Limit of Network Quantization](https://arxiv.org/pdf/1612.01543.pdf)
 - [2017 The Expressive Power of Neural Networks--A View from the Width](http://papers.nips.cc/paper/7203-the-expressive-power-of-neural-networks-a-view-from-the-width.pdf)
-- [2017 TENSORIZING GENERATIVE ADVERSARIAL NETS](https://arxiv.org/pdf/1710.10772.pdf)
+- [2017 Tensorizing Generative Adversarial Nets](https://arxiv.org/pdf/1710.10772.pdf)
 - [2017 Tensorial Recurrent Neural Networks for Longitudinal Data Analysis](https://arxiv.org/pdf/1708.00185.pdf)
 - [2017 Tensor Decomposition via Simultaneous Power Iteration](http://proceedings.mlr.press/v70/wang17i/wang17i.pdf)
 - [2017 Tensor Contraction Layers for Parsimonious Deep Nets](https://arxiv.org/pdf/1706.00439.pdf)
-- [2017 TENSOR CONTRACTION & REGRESSION NETWORKS](https://www.researchgate.net/profile/Jean_Kossaifi2/publication/318721063_Tensor_Contraction_Regression_Networks/links/5a26b48d0f7e9b71dd0c62ad/Tensor-Contraction-Regression-Networks.pdf)
+- [2017 Tensor Contraction & Regression Networks](https://www.researchgate.net/profile/Jean_Kossaifi2/publication/318721063_Tensor_Contraction_Regression_Networks/links/5a26b48d0f7e9b71dd0c62ad/Tensor-Contraction-Regression-Networks.pdf)
 - [2017 Tensor Biclustering](http://papers.nips.cc/paper/6730-tensor-biclustering.pdf)
 - [2017 Supervised Learning With Quantum-Inspired Tensor Networks](https://arxiv.org/pdf/1605.05775.pdf)
 - [2017 Sharing Residual Units Through Collective Tensor Factorization in Deep Neural Networks](https://arxiv.org/pdf/1703.02180.pdf)
