@@ -19,10 +19,8 @@
 
 ## [Prerequisites and texts](basicinfo.md)    
 
-## [Reading list](reading.md)
-
-## [Lecture Paper](lecture_paper.md)    
-
 ## [Lecture outline](outline.md)
+
+## [Lecture Paper](lecture_paper.md)    
 
 ## [Links](links.md)
