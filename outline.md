@@ -130,7 +130,7 @@ Paper:  
 
 Paper:  
 - [Deep Learning Tutorial](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)) by Hung-yi Lee
-- [Supervised Sequence Labelling withRecurrentNeuralNetworks](https://www.cs.toronto.edu/~graves/preprint.pdf)
+- [Supervised Sequence Labelling with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf)
 - [Deep Learning](./assets/paper/deep-learning-nature.pdf) in nature journal
 
 ## Lecture 14
