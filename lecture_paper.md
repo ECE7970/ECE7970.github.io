@@ -13,16 +13,16 @@
  <h3 id="1">
  Topic 01: Deep Learning
  </h3>
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()    
+- [2017 WHY DEEP NEURAL NETWORKS FOR FUNCTION APPROXIMATION](https://openreview.net/pdf?id=SkpSlKIel)
+- [2017 Understanding Deep Neural Networks with Rectified Linear Units](https://arxiv.org/pdf/1611.01491.pdf)
+- [2017 Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf)
+- [2017 Topology reduction in deep convolutional feature extraction networks](https://arxiv.org/pdf/1707.02711.pdf)
+- [2017 Theory of Deep Learning III--Generalization Properties of SGD](https://dspace.mit.edu/bitstream/handle/1721.1/107841/CBMM-Memo-067.pdf?sequence=4)
+- [2017 Stable recovery of the factors from a deep matrix product  and application to convolutional network](https://arxiv.org/pdf/1703.08044.pdf)
+- [2017 Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/pdf/1703.04933.pdf)
+- [2017 Semi-Supervised Learning with the Deep Rendering Mixture Model](https://arxiv.org/pdf/1612.01942.pdf)
+- [2017 Scaling the Scattering Transform--Deep Hybrid Networks](https://arxiv.org/pdf/1703.08961.pdf)
+- [2017 Robust Large Margin Deep Neural Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7934087)    
 ---
 
  <h3 id="2">
