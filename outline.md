@@ -127,6 +127,7 @@ Paper:  
 
 ## Lectrue 13
 - Rectified linear unit: deep learning
+
 Paper:  
 - [Deep Learning Tutorial](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)) by Hung-yi Lee
 
