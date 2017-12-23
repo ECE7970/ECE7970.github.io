@@ -72,7 +72,10 @@ Paper：
 
 ---
 
-## Best-Fit Subspace and Singular Value Decomposition(SVD)
+ <h3 id="2">
+ Topic 02: Best-Fit Subspace and Singular Value Decomposition(SVD)
+ </h3>
+ 
 ## Lecture 6
 - Singular value-decomposition(SVD)
 - Singular vectors
@@ -100,7 +103,11 @@ Paper：
 - covariance matrix
 
 ---
-## Random Matrix Theory
+
+ <h3 id="3">
+ Topic 03: Random Matrix Theory
+ </h3>
+ 
 ## Lecture 10
 - Random matrix theory and big data
 - covariance matrix
@@ -118,7 +125,11 @@ Paper:
 - [Sketching as a Tool for Numerical Linear Algebra](http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/wNow.pdf)
 
 ---
-## Mechine Learning
+
+ <h3 id="4">
+ Topic 04: Mechine Learning
+ </h3>
+ 
 ## Lecture 11
 - Introduction to theorem non –asymptotic analysis of random metrics
 - Concentration without independent
@@ -133,7 +144,10 @@ Paper:
 - Conditional density
 
 ---
-## Deep Learning
+ <h3 id="5">
+ Topic 05: Deep Learning
+ </h3>
+ 
 ## Lecture 12
 - Deep learning
 - Why is speech recognition hard?
