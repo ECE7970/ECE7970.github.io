@@ -9,7 +9,9 @@
 
 ### [Topic 05: Deep Learning](#5)
 
-### [Topic 06: Random Matrix Theory in Deep Learning](#6)
+### [Topic 06: Random Matrix Theory for Deep Learning](#6)
+
+### [Topic 07:Tensor for Deep learning](#7)
 
 ---
  <h3 id="1">
@@ -239,7 +241,7 @@ Paper:
 
 ---
  <h3 id="6">
- Topic 06: Random Matrix Theory in Deep Learning
+ Topic 06: Random Matrix Theory for Deep Learning
  </h3>
  
 ## Lecture 19 
@@ -271,6 +273,10 @@ Paper:
 - [Geometry of Neural Network Loss Surfaces via Random Matrix Theory](http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf)
 - [Nonlinear random matrix theory for deep learning](http://papers.nips.cc/paper/6857-nonlinear-random-matrix-theory-for-deep-learning.pdf)
 - [Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice](http://papers.nips.cc/paper/7064-resurrecting-the-sigmoid-in-deep-learning-through-dynamical-isometry-theory-and-practice.pdf)
+
+<h3 id="7">
+ Topic 07: Tensor for Deep Learning
+ </h3>
 
 ## Lectrue 21  
 Paper:
