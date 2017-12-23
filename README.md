@@ -17,10 +17,10 @@
 
 ## [Syllabus](assets/doc/ECE 7970 Syllabus Fall 2017.pdf)
 
-## [Prerequisites and texts](basicinfo.md)    
+## [Prerequisites and Texts](basicinfo.md)    
 
-## [Lecture outline](outline.md)
+## [Lecture Outline](outline.md)
 
-## [Paper list](lecture_paper.md)    
+## [Paper List](lecture_paper.md)    
 
 ## [Links](links.md)
