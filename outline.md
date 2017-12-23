@@ -1,6 +1,4 @@
-# High Dimensional Space
-
-From textbook: Foundations of data science blum. John hoproft and Kaman
+## High Dimensional Space
 ## Lectrue 1 
 ### Big data:
 - opportunities and challenges
@@ -55,6 +53,9 @@ Paper：
 - Single-ring distribution  outlier detection anomaly  detection 
 - Random projection and Random projection and Johnson–Lindenstrauss lemma
 
+---
+
+## Best-Fit Subspace and Singular Value Decomposition(SVD)
 ## Lecture 6
 - Singular value-decomposition(SVD)
 - Singular vectors
@@ -81,6 +82,8 @@ Paper：
 - Gaussian function
 - covariance matrix
 
+---
+## Random Matrix Theory
 ## Lecture 10
 - Random matrix theory and big data
 - covariance matrix
@@ -97,6 +100,8 @@ Paper：
 Paper:
 - [Sketching as a Tool for Numerical Linear Algebra](http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/wNow.pdf)
 
+---
+## Mechine Learning
 ## Lecture 11
 - Introduction to theorem non –asymptotic analysis of random metrics
 - Concentration without independent
@@ -110,7 +115,8 @@ Paper:
 - Correlation coefficient
 - Conditional density
 
-
+---
+## Deep Learning
 ## Lecture 12
 - Deep learning
 - Why is speech recognition hard?
@@ -132,6 +138,8 @@ Paper:
 - [Deep Learning Tutorial](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)) by Hung-yi Lee
 - [Supervised Sequence Labelling with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf)
 - [Deep Learning](./assets/paper/deep-learning-nature.pdf) in nature journal
+- [Optimal approximation of piecewise smooth functions using deep ReLU neural networks](https://arxiv.org/pdf/1709.05289.pdf)
+- [Nonparametric regression using deep neural networks with ReLU activation function](https://arxiv.org/pdf/1708.06633.pdf)
 
 ## Lecture 14
 - Depth: repeated composition
@@ -154,6 +162,10 @@ Paper:
 - Sigmoid function 
 - Cross-entropy
 - Tensor
+
+Paper:  
+- [The Power of Depth for Feedforward Neural Networks](http://proceedings.mlr.press/v49/eldan16.pdf)
+- [Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review](./assets/paper/Why and When.pdf)
 
 ## Lecture 15 
 Paper:
