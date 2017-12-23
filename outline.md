@@ -48,7 +48,7 @@ From textbook: Foundations of data science blum. John hoproft and Kaman
 
 paper：
 
-    [Spectrum Analysis of Large Random Matrices A Brief Introduction](/assets/ppt/SJTU_EE_PhD_Course_Notes_2017.pdf)
+[Spectrum Analysis of Large Random Matrices A Brief Introduction](/assets/ppt/SJTU_EE_PhD_Course_Notes_2017.pdf)
   
 ## Lecture 5  
 - MP law
