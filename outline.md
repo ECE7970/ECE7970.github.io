@@ -165,7 +165,7 @@ Paper:
 
 Paper:  
 - [The Power of Depth for Feedforward Neural Networks](http://proceedings.mlr.press/v49/eldan16.pdf)
-- [Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review](./assets/paper/Why and When.pdf)
+- [Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review](./assets/paper/Why-and-When.pdf)
 
 ## Lecture 15 
 Paper:
