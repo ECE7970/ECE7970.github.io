@@ -122,6 +122,9 @@ Paper:
 - Application
 - AI will transform the internet
 
+Paper:  
+- [Deep Learning Andrew Ng](http://cs229.stanford.edu/materials/CS229-DeepLearning.pdf)
+
 ## Lectrue 13
 - Rectified linear unit: deep learning
 
