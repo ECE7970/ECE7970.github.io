@@ -96,7 +96,7 @@ Paper：
 
 Paper:
 - [Sketching as a Tool for Numerical Linear Algebra](/assets/paper/2014 Sketching as a Tool for Numerical Linear Algebra.pdf)
-
+- [Sketching as a Tool for Numerical Linear Algebra](/assets/ppt/SJTU_EE_PhD_Course_Notes_2017.pdf) 
 ## Lecture 11
 - Introduction to theorem non –asymptotic analysis of random metrics
 - Concentration without independent
