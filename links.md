@@ -7,6 +7,6 @@
 - [Random Matrix Theory Course](https://ocw.mit.edu/courses/mathematics/18-996-random-matrix-theory-and-its-applications-spring-2004/index.htm)
 - [MIT technology review](https://www.technologyreview.com/)
 - [Play Tensorflow](http://playground.tensorflow.org)
-- [Deep Learning video](http://videolectures.net/deeplearning2017_montreal/)
+
 
 [back](./)
