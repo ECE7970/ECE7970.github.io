@@ -123,12 +123,12 @@ Paper:
 - AI will transform the internet
 
 Paper:  
-- [Deep Learning Andrew Ng](http://cs229.stanford.edu/materials/CS229-DeepLearning.pdf)
+- [Deep Learning](http://cs229.stanford.edu/materials/CS229-DeepLearning.pdf) by Andrew Ng
 
 ## Lectrue 13
 - Rectified linear unit: deep learning
 Paper:  
-- [Deep Learning Tutorial Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3))
+- [Deep Learning Tutorial](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)) by Hung-yi Lee
 
 ## Lecture 14
 - Depth: repeated composition
