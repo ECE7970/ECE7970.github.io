@@ -128,7 +128,7 @@ Paper：
 Paper:
 - [Sketching as a Tool for Numerical Linear Algebra](http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/wNow.pdf)
 Book:
-- High-Dimensional Probalbility
+- [High-Dimensional Probalbility](http://www-personal.umich.edu/~romanv/papers/HDP-book/HDP-book.pdf)
 ---
 
  <h3 id="4">
