@@ -62,17 +62,19 @@
 - CDF and PDF
 - Random projection 
 - Gaussian annulus theorem 
-- Random Projection and Johnson–Lindenstrauss lemma
+
 
 
 Paper：  
 * [Spectrum Analysis of Large Random Matrices A Brief Introduction](/assets/ppt/SJTU_EE_PhD_Course_Notes_2017.pdf) by Robert C. Qiu
   
 ## Lecture 5  
-- MP-law
+- MP-Law
 - Diagonal entries 
-- Single-ring distribution  outlier detection anomaly  detection 
-- Random projection and Random projection and Johnson–Lindenstrauss lemma
+- Single-Ring distribution  
+  * Outlier detection and anomaly  detection 
+- Random Projection and Johnson–Lindenstrauss lemma
+
 
 ---
 
