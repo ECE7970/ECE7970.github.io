@@ -166,7 +166,10 @@ Paper:  
 - [Deep Learning](http://cs229.stanford.edu/materials/CS229-DeepLearning.pdf) by Andrew Ng
 
 ## Lecture 13
-- Rectified linear unit: deep learning
+- Sigmoid Function 
+- Rectified Linear Unit Function
+
+
 
 Paper:  
 - [Deep Learning Tutorial](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)) by Hung-yi Lee
@@ -178,7 +181,12 @@ Paper:
 ## Lecture 14
 - Depth: repeated composition
 - Computational graphs
-- Machine learning and AI(expression power, landscape loss surface, generalization, saddle point)
+- Machine learning and AI
+  * expression power
+  * landscape loss surface
+  * generalization
+  * saddle point
+  
 - Learning multiple components
 - Historical trends: growing data sets
 - The MNIST dataset
