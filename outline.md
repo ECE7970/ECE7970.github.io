@@ -83,21 +83,21 @@ Paper：
  </h3>
  
 ## Lecture 6
-- Singular value-decomposition(SVD)
-- Singular vectors
+- Singular Values 
+- Singular Vector Decomposition(SVD)
 
 ## Lecture 7
-- Best  fit subspace and singular value decomposition(SVD)
-- Best rank-K approximation
-- Power method for singular value decomposition
-- Applications of singular value decomposition
-- PCA
-- Clustering
+- Best Rank-k Approximations
+- Power method for Singular Value Decomposition
+- Singular Vectors and Eigenvectors
+- Applications of Singular Value Decomposition
+- Principal Component Analysis
+- Clustering a Mixture of Spherical Gaussians
 
 ## Lecture 8
 - Johnson-Lindertrauss lemma
-- Dvoretzky--Milman’s therem     
-- Chebyshev’s inequality
+- Dvoretzky-Milman’s therem     
+- Chebyshev’s Inequality
 - Lindeberg-Lévy Central Limit Theorem
 - Concentration sum of independent
 - Random vector in high dimension
@@ -116,12 +116,10 @@ Paper：
  
 ## Lecture 10
 - Random matrix theory and big data
-- covariance matrix
 - Concentration without independence
-- Johnson-linderstrauss lemma
 - Quadratic forms, summarization and contraction
-- Covariance estimation
-- Sub Gaussian
+- Covariance estimation for general distributions
+- Sub-Gaussian increments of the random matrix process
 - Sample complexity
 - Tail bound
 - spectral clustering
@@ -129,7 +127,8 @@ Paper：
 
 Paper:
 - [Sketching as a Tool for Numerical Linear Algebra](http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/wNow.pdf)
-
+Book:
+-High-Dimensional Probalbility
 ---
 
  <h3 id="4">
@@ -137,8 +136,7 @@ Paper:
  </h3>
  
 ## Lecture 11
-- Introduction to theorem non –asymptotic analysis of random metrics
-- Concentration without independent
+- Introduction to theorem Non –Asymptotic analysis of random metrics
 - Concentration of Lipchitz function on the sphere
 - Lipchitz functions
 - Concentration via isoperimetric inequalities Gaussian concentration
