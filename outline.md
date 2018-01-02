@@ -5,13 +5,11 @@
 
 ### [Topic 03: Random Matrix Theory](#3)
 
-### [Topic 04: Mechine Learning](#4)
+### [Topic 04: Deep Learning](#4)
 
-### [Topic 05: Deep Learning](#5)
+### [Topic 05: Random Matrix Theory for Deep Learning](#5)
 
-### [Topic 06: Random Matrix Theory for Deep Learning](#6)
-
-### [Topic 07:Tensor for Deep learning](#7)
+### [Topic 06:Tensor for Deep learning](#6)
 
 ---
  <h3 id="1">
@@ -128,11 +126,9 @@ Paper：
 Reference:
 - [Sketching as a Tool for Numerical Linear Algebra](http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/wNow.pdf)
 - [High-Dimensional Probalbility](http://www-personal.umich.edu/~romanv/papers/HDP-book/HDP-book.pdf)
----
 
- <h3 id="4">
- Topic 04: Mechine Learning
- </h3>
+
+
  
 ## Lecture 11
 - Introduction to theorem Non –Asymptotic analysis of random metrics
@@ -147,8 +143,8 @@ Reference:
 - Conditional density
 
 ---
- <h3 id="5">
- Topic 05: Deep Learning
+ <h3 id="4">
+ Topic 04: Deep Learning
  </h3>
  
 ## Lecture 12
@@ -166,6 +162,7 @@ Paper:  
 - [Deep Learning](http://cs229.stanford.edu/materials/CS229-DeepLearning.pdf) by Andrew Ng
 
 ## Lecture 13
+- Softmax function
 - Sigmoid Function 
 - Rectified Linear Unit Function
 
@@ -191,7 +188,7 @@ Paper:
 - Historical trends: growing data sets
 - The MNIST dataset
 - Connections per neuron
-- Tradeoff(depth/width
+- Tradeoff(depth/width)
 - Solving object recognition
 - Iterative optimization
 - Curvature
@@ -200,8 +197,6 @@ Paper:
 - Gradient descent and poor conditioning 
 - Neural net visualization
 - KKR Multipliers
-- Softmax function 
-- Sigmoid function 
 - Cross-entropy
 - Tensor
 
@@ -238,7 +233,7 @@ Paper:
 - Multilayer feed forward networks are universal approximates
 - Large scale optimization
 - Dropout
-- RNN
+
 
 ## Lecture 18
 - Prediction/Inspiration by neuroscience
@@ -246,11 +241,11 @@ Paper:
 - Explosion of computational resources
 - Multi-layer perception
 - Back-propagation derivation
-- CNN
+
 
 ---
- <h3 id="6">
- Topic 06: Random Matrix Theory for Deep Learning
+ <h3 id="5">
+ Topic 05: Random Matrix Theory for Deep Learning
  </h3>
  
 ## Lecture 19 
@@ -283,8 +278,8 @@ Paper:
 - [Nonlinear random matrix theory for deep learning](http://papers.nips.cc/paper/6857-nonlinear-random-matrix-theory-for-deep-learning.pdf)
 - [Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice](http://papers.nips.cc/paper/7064-resurrecting-the-sigmoid-in-deep-learning-through-dynamical-isometry-theory-and-practice.pdf)
 
-<h3 id="7">
- Topic 07: Tensor for Deep Learning
+<h3 id="6">
+ Topic 06: Tensor for Deep Learning
  </h3>
 
 ## Lectrue 21  
