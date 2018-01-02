@@ -21,7 +21,8 @@
 ## Lectrue 1 
 ### Big data:
 - opportunities and challenges
-- High dimensional statistics smart grid
+- High dimensional statistics 
+- Smart grid
 - Cognitive radio network
 - Cognitive radar
 - Cognitive networked sensing
@@ -32,8 +33,7 @@
 - Decision tree
 - PCA
 - Kernel PCA
-   * foundations: deep learning classification, prediction
-   * Application
+- Foundation: Deep learning 
 
 
 ## Lectrue 2 
