@@ -63,7 +63,7 @@
 
 
 
-Paper：  
+Reference：  
 * [Spectrum Analysis of Large Random Matrices A Brief Introduction](/assets/ppt/SJTU_EE_PhD_Course_Notes_2017.pdf) by Robert C. Qiu
   
 ## Lecture 5  
@@ -106,6 +106,9 @@ Paper：
 - Gaussian function
 - covariance matrix
 
+Text Book(Lectrue 1 to Lectrue 9):
+- [Foundation of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
+
 ---
 
  <h3 id="3">
@@ -123,9 +126,10 @@ Paper：
 - spectral clustering
 - Gaussian mixture model
 
-Reference:
+Paper:
 - [Sketching as a Tool for Numerical Linear Algebra](http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/wNow.pdf)
-- [High-Dimensional Probalbility](http://www-personal.umich.edu/~romanv/papers/HDP-book/HDP-book.pdf)
+Textbook:
+[High-Dimensional Probalbility](http://www-personal.umich.edu/~romanv/papers/HDP-book/HDP-book.pdf)
 
 
 
