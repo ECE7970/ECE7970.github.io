@@ -33,7 +33,8 @@
 - Decision tree
 - PCA
 - Kernel PCA
-- Foundation: Deep learning 
+- Foundation
+   * Deep learning 
 
 
 ## Lectrue 2 
