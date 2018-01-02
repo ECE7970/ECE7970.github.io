@@ -125,9 +125,8 @@ Paper：
 - spectral clustering
 - Gaussian mixture model
 
-Paper:
+Reference:
 - [Sketching as a Tool for Numerical Linear Algebra](http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/wNow.pdf)
-Book:
 - [High-Dimensional Probalbility](http://www-personal.umich.edu/~romanv/papers/HDP-book/HDP-book.pdf)
 ---
 
