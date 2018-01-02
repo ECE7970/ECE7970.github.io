@@ -106,8 +106,7 @@ Reference：
 - Gaussian function
 - covariance matrix
 
-Text Book(Lectrue 1 to Lectrue 9):
-- [Foundation of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
+
 
 ---
 
@@ -129,8 +128,7 @@ Text Book(Lectrue 1 to Lectrue 9):
 Paper:
 - [Sketching as a Tool for Numerical Linear Algebra](http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/wNow.pdf)
 
-Textbook:
-- [High-Dimensional Probalbility](http://www-personal.umich.edu/~romanv/papers/HDP-book/HDP-book.pdf)
+
 
 
 
