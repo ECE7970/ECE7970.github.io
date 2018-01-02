@@ -10,9 +10,11 @@
 
 
 ---
+
  <h3 id="1">
  Topic 01: Deep Learning
  </h3>
+ 
 - [2017 WHY DEEP NEURAL NETWORKS FOR FUNCTION APPROXIMATION](https://openreview.net/pdf?id=SkpSlKIel)
 - [2017 Understanding Deep Neural Networks with Rectified Linear Units](https://arxiv.org/pdf/1611.01491.pdf)
 - [2017 Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf)
@@ -22,13 +24,14 @@
 - [2017 Sharp Minima Can Generalize For Deep Nets](https://arxiv.org/pdf/1703.04933.pdf)
 - [2017 Semi-Supervised Learning with the Deep Rendering Mixture Model](https://arxiv.org/pdf/1612.01942.pdf)
 - [2017 Scaling the Scattering Transform--Deep Hybrid Networks](https://arxiv.org/pdf/1703.08961.pdf)
-- [2017 Robust Large Margin Deep Neural Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7934087)    
+ 
 
 ---
 
  <h3 id="2">
  Topic 02: Random Matrix Theory for Deep Learning
  </h3>
+ 
 - [2017 Towards Understanding Generalization of Deep Learning--Perspective of Loss Landscapes](https://arxiv.org/pdf/1706.10239.pdf)
 - [2017 Resurrecting the sigmoid in deep learning through dynamical isometry](http://papers.nips.cc/paper/7064-resurrecting-the-sigmoid-in-deep-learning-through-dynamical-isometry-theory-and-practice.pdf)
 - [2017 Outliers In The Spectrum for Products of Independent Random Matrices](https://arxiv.org/pdf/1711.07420.pdf)
@@ -39,13 +42,14 @@
 - [2017 Geometry of Neural Network Loss Surfaces via Random Matrix Theory---supplemental material](http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf)
 - [2017 Geometry of Neural Network Loss Surfaces via Random Matrix Theory](http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf)
 - [2017 Empirical Analysis of the Hessian of Over-Parametrized Neural Networks](https://arxiv.org/pdf/1706.04454.pdf)
-- [2017 Eigenvalues Of The Hession In Deep Learing--Singularity and Beyond](https://openreview.net/pdf?id=B186cP9gx)
+
 
 ---
 
  <h3 id="3">
  Topic 03: Tensor for Deep Learning
  </h3>
+ 
 - [2017 Wider and Deeper, Cheaper and Faster:Tensorized LSTMs for Sequence Learning](http://papers.nips.cc/paper/6606-wider-and-deeper-cheaper-and-faster-tensorized-lstms-for-sequence-learning.pdf)
 - [2017 Unsupervised and Semi-supervised Anomaly Detection with LSTM Neural Networks](https://arxiv.org/pdf/1710.09207.pdf)
 - [2017 Towards the Limit of Network Quantization](https://arxiv.org/pdf/1612.01543.pdf)
