@@ -51,7 +51,7 @@
 - Semi-circle distribution
 - High dimensional space
 - PCA and SVD
-- Chebyshev’s inequality
+- Chebyshev’s Inequality
 - Distance of variables
 - Single ring law
 - Tail Bounds theorem
@@ -69,7 +69,7 @@ Paper：
 * [Spectrum Analysis of Large Random Matrices A Brief Introduction](/assets/ppt/SJTU_EE_PhD_Course_Notes_2017.pdf) by Robert C. Qiu
   
 ## Lecture 5  
-- MP law
+- MP-law
 - Diagonal entries 
 - Single-ring distribution  outlier detection anomaly  detection 
 - Random projection and Random projection and Johnson–Lindenstrauss lemma
