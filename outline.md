@@ -34,7 +34,8 @@
 - PCA
 - Kernel PCA
 - Foundation
-   * Deep learning 
+   * Deep learning: Classification and Prediction
+   * Supervised learning and Unsupervised learning
 
 
 ## Lectrue 2 
@@ -43,26 +44,26 @@
 - The law of large number 
 - Markov’s inequality
  -Chebyshev’s inequality
- -Law of large numbers
+
  
  
 ## Lecture 3 
 - Semi-circle distribution
 - High dimensional space
 - PCA and SVD
-- The low of large numbers
 - Chebyshev’s inequality
 - Distance of variables
 - Single ring law
 - Tail Bounds theorem
-- Geometry of high dimension
+- Geometry of high dimensions
 
 ## Lecture 4  
 - Semi-circle distribution
 - CDF and PDF
 - Random projection 
-- Gaussian annulus theorem and Random projection and Johnson–Lindenstrauss lemma
-- Random projection theorem
+- Gaussian annulus theorem 
+- Random Projection and Johnson–Lindenstrauss lemma
+
 
 Paper：  
 * [Spectrum Analysis of Large Random Matrices A Brief Introduction](/assets/ppt/SJTU_EE_PhD_Course_Notes_2017.pdf) by Robert C. Qiu
