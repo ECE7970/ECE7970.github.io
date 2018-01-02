@@ -23,6 +23,7 @@
 - [2017 Semi-Supervised Learning with the Deep Rendering Mixture Model](https://arxiv.org/pdf/1612.01942.pdf)
 - [2017 Scaling the Scattering Transform--Deep Hybrid Networks](https://arxiv.org/pdf/1703.08961.pdf)
 - [2017 Robust Large Margin Deep Neural Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7934087)    
+
 ---
 
  <h3 id="2">
@@ -39,6 +40,7 @@
 - [2017 Geometry of Neural Network Loss Surfaces via Random Matrix Theory](http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf)
 - [2017 Empirical Analysis of the Hessian of Over-Parametrized Neural Networks](https://arxiv.org/pdf/1706.04454.pdf)
 - [2017 Eigenvalues Of The Hession In Deep Learing--Singularity and Beyond](https://openreview.net/pdf?id=B186cP9gx)
+
 ---
 
  <h3 id="3">
