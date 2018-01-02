@@ -138,11 +138,11 @@ Reference:
 - Introduction to theorem Non –Asymptotic analysis of random metrics
 - Concentration of Lipchitz function on the sphere
 - Lipchitz functions
-- Concentration via isoperimetric inequalities Gaussian concentration
+- Concentration via isoperimetric inequalities
+- Gaussian concentration
 - Talargand’s concentration inequality
 - Random projection
-- Sketching
-- Random projection
+- Grassmannian
 - Correlation coefficient
 - Conditional density
 
