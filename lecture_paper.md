@@ -64,6 +64,6 @@
 - [2017 Sharing Residual Units Through Collective Tensor Factorization in Deep Neural Networks](https://arxiv.org/pdf/1703.02180.pdf)
 - [2017 Scalable Algorithm for Higher-Order Co-Clustering via Random Sampling](https://arxiv.org/pdf/1703.02180.pdf)
 - [2017 Provably efficient neural network representation for image classification](https://arxiv.org/pdf/1703.02180.pdf)
-- [2017 Parallelized Tensor Train Learning of Polynomial Classifiers](ftp://ftp.esat.kuleuven.ac.be/pub/pub/stadius/ida/reports/17-05.pdf)
+- [2017 Parallelized Tensor Train Learning of Polynomial Classifiers](https://pdfs.semanticscholar.org/ca92/d51330013052aaab2dffecc67b09c332ee31.pdf)
 
 [back](./)
