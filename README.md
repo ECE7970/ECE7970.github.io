@@ -23,4 +23,6 @@
 
 ## [Paper List](lecture_paper.md)    
 
+## [Reference Slide](slidel.md)    
+
 ## [Links](links.md)
