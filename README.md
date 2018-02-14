@@ -15,7 +15,7 @@
 
 ## [Biography](http://www.cae.tntech.edu/~rqiu/robert_qiu.htm)
 
-## [Syllabus ](./assets/doc/ECE 7970 Syllabus Fall 2017.pdf)
+## [Syllabus ](./assets/doc/ECE7970SyllabusFall2017.pdf)
 
 ## [Prerequisites and Texts](basicinfo.md)    
 
